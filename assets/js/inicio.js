@@ -4,7 +4,7 @@ const cardsData = [
       title: "Pokémon JD",
       description: "Explora información sobre los Pokémon.",
       image: "https://th.bing.com/th/id/OIP.a8tQwY6SUtqjE-EV5nYGkgHaFj?rs=1&pid=ImgDetMain",  // Ruta local a la imagen
-      enlace: "https://jd-354.github.io/pokemon/"  // Enlace local a otra página
+      enlace: "./https://jd-354.github.io/pokemon/"  // Enlace local a otra página
     },
     {
       title: "Jikan JD",
