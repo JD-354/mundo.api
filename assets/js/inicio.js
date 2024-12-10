@@ -1,6 +1,12 @@
 // Datos para las tarjetas con rutas locales
 const cardsData = [
-    {
+ {
+      title: "Rick and Morty JD",
+      description: "Accede a los personajes de la serie Rick and Morty.",
+      image: " https://th.bing.com/th/id/OIP.mehRUmUsHt5u67vSA-YeDAHaEo?rs=1&pid=ImgDetMain", // Ruta local a la imagen
+      enlace: "./RickMorty.html"  // Enlace local a otra página
+    },
+   {
       title: "Pokémon JD",
       description: "Explora información sobre los Pokémon.",
       image: "https://th.bing.com/th/id/OIP.a8tQwY6SUtqjE-EV5nYGkgHaFj?rs=1&pid=ImgDetMain",  // Ruta local a la imagen
