@@ -2,18 +2,7 @@ body {
     background: linear-gradient(to bottom, #00bfae, #3b84f3, #6a2e8c);
     font-family: 'Arial', sans-serif;
     color: white;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    text-align: center;
-    justify-content: center; /* Centrar horizontalmente */
-    align-items: center;/* Centrar verticalmente */
-    height: 100vh; /* Altura completa de la ventana */
-     /* Centra el texto del título */
-}
-
-
-  
+    } 
   .header {
     background-color: rgba(0, 153, 255, 0.9);
     color: white;
