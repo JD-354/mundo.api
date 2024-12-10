@@ -14,7 +14,7 @@ const cardsData = [
     },
     {
       title: "Jikan JD",
-      description: "Consulta animes y mangas con la API de Jikan.",
+      description: "Consulta animes y mangas con  Jikan.",
       image: "https://i.ytimg.com/vi/QRp7nRQPFck/maxresdefault.jpg",  // Ruta local a la imagen
       enlace: "https://jd-354.github.io/PRB/"  // Enlace local a otra página
     }
