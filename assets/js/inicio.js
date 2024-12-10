@@ -4,7 +4,7 @@ const cardsData = [
       title: "Rick and Morty JD",
       description: "Accede a los personajes de la serie Rick and Morty.",
       image: " https://th.bing.com/th/id/OIP.mehRUmUsHt5u67vSA-YeDAHaEo?rs=1&pid=ImgDetMain", // Ruta local a la imagen
-      enlace: "./RickMorty.html"  // Enlace local a otra página
+      enlace: "https://jd-354.github.io/RICK/"  // Enlace local a otra página
     },
    {
       title: "Pokémon JD",
